@@ -1,9 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Map thế giới","order":1,"parentId":0,"scrollX":2480.4,"scrollY":2232},
-{"id":2,"expanded":true,"name":"Nơi khởi đầu","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":603.6},
-null,
-{"id":4,"expanded":false,"name":"Trong Lâu Đài","order":5,"parentId":6,"scrollX":973.1999999999999,"scrollY":608.4},
-{"id":5,"expanded":false,"name":"Bãi biển mini","order":2,"parentId":0,"scrollX":982.8,"scrollY":543.6},
-{"id":6,"expanded":true,"name":"Lâu Đài 1","order":4,"parentId":0,"scrollX":982.8,"scrollY":543.6}
+{"id":1,"expanded":true,"name":"Map thế giới","order":1,"parentId":0,"scrollX":2480,"scrollY":2232},
+{"id":2,"expanded":true,"name":"Nơi khởi đầu","order":3,"parentId":0,"scrollX":1300.8,"scrollY":744},
+{"id":3,"expanded":true,"name":"Động Hắc Nguyệt","order":6,"parentId":0,"scrollX":1281.6,"scrollY":1416},
+{"id":4,"expanded":false,"name":"Trong Lâu Đài","order":5,"parentId":6,"scrollX":1300.8,"scrollY":744},
+{"id":5,"expanded":false,"name":"Bãi biển mini","order":2,"parentId":0,"scrollX":1300.8,"scrollY":744},
+{"id":6,"expanded":true,"name":"Lâu Đài 1","order":4,"parentId":0,"scrollX":1300.8,"scrollY":744},
+{"id":7,"expanded":true,"name":"Động Hắc Nguyệt - Trên","order":7,"parentId":3,"scrollX":1281.6,"scrollY":1416},
+{"id":8,"expanded":false,"name":"Động Hắc Nguyệt - Trái","order":9,"parentId":3,"scrollX":1281.6,"scrollY":744},
+{"id":9,"expanded":true,"name":"Động Hắc Nguyệt - Ẩn","order":10,"parentId":3,"scrollX":1281.6,"scrollY":1416},
+{"id":10,"expanded":false,"name":"Động Nguyệt Nha - Boss","order":8,"parentId":7,"scrollX":1300.8,"scrollY":744}
 ]
