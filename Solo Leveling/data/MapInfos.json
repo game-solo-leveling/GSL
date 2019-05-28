@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"Map thế giới","order":1,"parentId":0,"scrollX":5188.363636363637,"scrollY":3905.4545454545455},
 {"id":2,"expanded":false,"name":"??????????","order":3,"parentId":27,"scrollX":973.1999999999999,"scrollY":896.4},
 {"id":3,"expanded":true,"name":"Sảnh Trường","order":25,"parentId":16,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
-{"id":4,"expanded":false,"name":"Thánh Điện","order":36,"parentId":6,"scrollX":1084,"scrollY":620},
+{"id":4,"expanded":false,"name":"Hoàng Cung","order":36,"parentId":6,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
 {"id":5,"expanded":false,"name":"Khu Vui Chơi Ven Sông","order":14,"parentId":15,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
 {"id":6,"expanded":false,"name":"Thành Hi Vọng","order":33,"parentId":0,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
 {"id":7,"expanded":false,"name":"Lớp Học","order":26,"parentId":3,"scrollX":1084,"scrollY":620},
@@ -48,5 +48,8 @@ null,
 {"id":46,"expanded":false,"name":"Lâu Đài Quỷ - Boss","order":49,"parentId":41,"scrollX":1165.0909090909092,"scrollY":1003.6363636363636},
 {"id":47,"expanded":false,"name":"Nhà Kho 1","order":10,"parentId":13,"scrollX":1165.0909090909092,"scrollY":676.3636363636364},
 {"id":48,"expanded":false,"name":"Nhà Kho 2","order":11,"parentId":13,"scrollX":1165.0909090909092,"scrollY":676.3636363636364},
-{"id":49,"expanded":false,"name":"Nhà Kho 3","order":12,"parentId":13,"scrollX":1165.0909090909092,"scrollY":676.3636363636364}
+{"id":49,"expanded":false,"name":"Nhà Kho 3","order":12,"parentId":13,"scrollX":1165.0909090909092,"scrollY":676.3636363636364},
+{"id":50,"expanded":true,"name":"Đền Thờ","order":51,"parentId":51,"scrollX":1165.0909090909092,"scrollY":981.8181818181819},
+{"id":51,"expanded":false,"name":"Thành Phố Trên Mây","order":50,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1304.7272727272727},
+{"id":52,"expanded":false,"name":"Thánh Điện","order":52,"parentId":50,"scrollX":1182.5454545454545,"scrollY":676.3636363636364}
 ]
