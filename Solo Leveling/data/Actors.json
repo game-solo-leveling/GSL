@@ -1,16 +1,9 @@
 [
 null,
-<<<<<<< HEAD
 {"id":1,"battlerName":"NhimBattler01","characterIndex":0,"characterName":"NhimWalk01","classId":1,"equips":[3,1,0,0,0],"faceIndex":0,"faceName":"NhimFace01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":15,"maxLevel":99,"name":"JinWoo","nickname":"Hoàng đế bóng tối","note":"","profile":""},
 {"id":2,"battlerName":"Queen","characterIndex":0,"characterName":"Queen","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NuHoangAs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Queen","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"tetuong2","characterIndex":0,"characterName":"tetuong3","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"TeTuong2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lora","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"canthan_2","characterIndex":0,"characterName":"canthan_2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"canthan2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Joy","nickname":"","note":"","profile":""},
-=======
-{"id":1,"battlerName":"NhimBattler01","characterIndex":0,"characterName":"NhimWalk01","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"NhimFace01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Tiêu Viêm","nickname":"Hoàng đế bóng tối","note":"","profile":""},
-{"id":2,"battlerName":"NhimBattler02","characterIndex":0,"characterName":"NhimWalk02","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NhimFace02","traits":[],"initialLevel":1,"maxLevel":99,"name":"Huân Nhi","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tiểu Tuyết","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mộng Tình","nickname":"","note":"","profile":""},
->>>>>>> 8f98bfab55949581d40d24bb82564a35d88ace5a
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
