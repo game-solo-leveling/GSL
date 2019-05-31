@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"NhimBattler01","characterIndex":0,"characterName":"NhimWalk01","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"NhimFace01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"JinWoo","nickname":"Hoàng đế bóng tối","note":"","profile":""},
-{"id":2,"battlerName":"Queen","characterIndex":0,"characterName":"Queen","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NuHoangAs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Queen","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"TeTuong","characterIndex":0,"characterName":"TeTuong","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"TeTuong","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rok","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"CanThan","characterIndex":0,"characterName":"Canthan","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"CanThan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jack","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"NhimBattler01","characterIndex":0,"characterName":"NhimWalk01","classId":1,"equips":[3,1,0,0,0],"faceIndex":0,"faceName":"NhimFace01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":15,"maxLevel":99,"name":"JinWoo","nickname":"Hoàng đế bóng tối","note":"","profile":""},
+{"id":2,"battlerName":"Queen","characterIndex":0,"characterName":"Queen","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NuHoangAs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Queen","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"tetuong2","characterIndex":0,"characterName":"tetuong3","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"TeTuong2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lora","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"canthan_2","characterIndex":0,"characterName":"canthan_2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"canthan2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Joy","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
